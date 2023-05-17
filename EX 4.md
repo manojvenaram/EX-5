@@ -54,9 +54,9 @@ while True:
 
 ## OUTPUT :
 ### Client
-![](5c.py)
+![](5c.png)
 ### Server
-![](5s.py)
+![](5s.png)
 
 
 ## RESULT :
